@@ -1,0 +1,4 @@
+server localhost
+zone domain
+update delete _acme-challenge1.domain
+send

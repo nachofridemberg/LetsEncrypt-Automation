@@ -1,0 +1,4 @@
+server localhost
+zone domain
+update add _acme-challenge.domain 600 TXT 
+send
