@@ -31,7 +31,7 @@ Script plan:
 ## Previous Steps
 ------------------------------------------------------------------
 
-1. Generate dns key
+1. Generate dns key.
 ```
 dnssec-keygen -a HMAC-SHA512 -b 512 -n HOST certbot
 ```
